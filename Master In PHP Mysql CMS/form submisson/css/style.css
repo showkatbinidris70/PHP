@@ -1,0 +1,17 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,500;1,300&family=Poppins:ital,wght@0,100;0,200;0,300;0,500;1,200&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #161616;
+    font-size: 16px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #333;
+}
+p{
+    font-size: 16px;
+    color: #161616;
+}
