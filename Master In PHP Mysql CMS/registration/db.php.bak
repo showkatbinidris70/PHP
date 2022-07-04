@@ -1,0 +1,8 @@
+<?php 
+	$connect = mysqli_connect('localhost', 'root', '', 'phpdevelopers');
+	if ($connect) {
+		echo "Connected";
+	} else {
+		die('not');
+	}
+?>
